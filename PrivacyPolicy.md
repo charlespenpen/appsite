@@ -2,6 +2,8 @@
 
 Last updated: 2026-07-09
 
+Online policy URL: https://charlespenpen.github.io/appsite/PrivacyPolicy.md
+
 ClearLedger is a personal bookkeeping app. It does not provide banking, payment, lending, investment, trading, cryptocurrency, or financial advisory services.
 
 ## Data stored by the app
