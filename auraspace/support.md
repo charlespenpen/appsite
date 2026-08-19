@@ -1,4 +1,4 @@
-Aura Space Support
+# Aura Space Support
 
 Welcome to Aura Space support. This page helps you troubleshoot common issues, understand subscriptions and permissions, and contact the support team.
 
@@ -43,7 +43,7 @@ Aura Space requests permissions only when you open a related tool. You can chang
 
 1. Open iPhone Settings.
 2. Find Aura Space.
-3. Review camera, photos, microphone, location, motion, notifications, Health, NFC, or network-related permissions.
+3. Review camera, photos, microphone, location, motion, notifications, NFC, or network-related permissions.
 4. Return to Aura Space and open the tool again.
 
 Common permission mapping:
@@ -56,7 +56,6 @@ Common permission mapping:
 | Compass, speed, and altitude | Location, motion, or device sensors |
 | Accelerometer, gyroscope, magnetometer, and barometer | Device hardware and motion/sensor capabilities |
 | NFC | A supported physical iPhone and user-initiated NFC read/write |
-| Activity summary | Apple Health authorization |
 | Focus timer and status updates | Notifications or Live Activity, depending on the feature |
 
 The iOS Simulator cannot fully verify NFC, camera quality, some sensors, notification delivery, or background behavior. Use a physical device when possible.
@@ -69,7 +68,7 @@ No. Aura Space does not create an account and does not show ads.
 
 ### Does Aura Space upload my data?
 
-Tool history and settings are stored primarily on your device. Requests leave the device only when you choose to export or share content, or when you use a tool that requires an external service, such as AI API usage checks, IP lookup, network speed tests, DNS/tunnel setup, or App Store subscription verification.
+Tool history and settings are stored primarily on your device. Requests leave the device only when you choose to export or share content, or when you use a tool that requires an external service, such as AI API usage checks, IP lookup, network speed tests, or App Store subscription verification.
 
 ### Why does AI usage not show data?
 
@@ -77,11 +76,7 @@ AI usage depends on the provider you configure, API key type, account permission
 
 ### Why are network speed or IP lookup results unstable?
 
-Network speed and IP lookup can be affected by your carrier, VPN, proxy, routing, speed-test endpoint, geolocation database, captive portal, and temporary network conditions. Results are best-effort references for the current network environment.
-
-### Can Ad Shield block every ad?
-
-No guarantee. Ad Shield depends on iOS DNS, Safari content blocker, tunnel settings, rule lists, the selected DNS service, and system policy. Aura Space does not decrypt HTTPS traffic and does not promise to block 100% of ads.
+Network speed and IP lookup can be affected by your carrier, proxy, routing, speed-test endpoint, geolocation database, captive portal, and temporary network conditions. Results are best-effort references for the current network environment.
 
 ### Why do widgets or Live Activities not refresh in real time?
 
