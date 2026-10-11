@@ -6,7 +6,7 @@ lang: zh-CN
 
 # NFC Studio 支持 / Support
 
-[简体中文](#zh-hans) · [English](#english) · [隐私政策 / Privacy Policy](PrivacyPolicy.html)
+[简体中文](#zh-hans) · [English](#en) · [隐私政策 / Privacy Policy](PrivacyPolicy.html)
 
 更新日期 / Updated: **2026-10-11**
 
@@ -103,7 +103,7 @@ NDEF 编辑器可通过系统“文件”导入或导出单个 `.ndef` 消息，
 
 App 的扫描、识别与编码在设备上处理，历史保存在本地；主动分享、导出、写入标签及调用外部服务会交出相应内容，Apple 订阅服务和本网站托管也涉及外部服务。完整说明见 [NFC Studio 隐私政策](PrivacyPolicy.html)。
 
-<a id="english"></a>
+<a id="en"></a>
 
 ## English
 

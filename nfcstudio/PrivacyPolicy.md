@@ -6,7 +6,7 @@ lang: zh-CN
 
 # NFC Studio 隐私政策 / Privacy Policy
 
-[简体中文](#zh-hans) · [English](#english) · [支持 / Support](support.html)
+[简体中文](#zh-hans) · [English](#en) · [支持 / Support](support.html)
 
 生效及更新日期 / Effective and updated: **2026-10-11**
 
@@ -90,7 +90,7 @@ NFC Studio Pro 的购买、试用资格、续订和付款通过 Apple App Store 
 
 若 App 的功能或数据处理方式发生变化，我们会在本页更新政策和日期，并在适用时更新商店披露、提供说明或请求授权。
 
-<a id="english"></a>
+<a id="en"></a>
 
 ## English
 
