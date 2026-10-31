@@ -44,10 +44,10 @@ ClearLedger stores data locally by default. Optional iCloud sync uses the user's
 - Local notifications are used only for budget and recurring-entry reminders.
 - Camera scanning is used only when the user chooses live card-number scanning while adding an account.
 - Photos are selected through the system photo picker only when the user chooses image import or recognition.
-- JSON backups and CSV reports are created only when the user exports them.
+- Ledger backups and CSV reports are created when you choose to export them. Before restoring a backup or replacing a ledger, the app may also create and keep a safety backup on your device.
 
 - App 锁只会在用户开启后使用设备认证。
 - 本地通知只用于预算和周期账单提醒。
 - 相机扫描只在用户新增账户并主动选择实时扫描卡号时使用。
 - 图片仅在用户主动选择图片导入或识别时通过系统照片选择器读取。
-- JSON 备份和 CSV 报表只会在用户主动导出时生成。
+- 账本备份和 CSV 报表会在用户主动选择导出时生成。恢复备份或替换账本前，App 也可能在本机创建并保留安全备份。

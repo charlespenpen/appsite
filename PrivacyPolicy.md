@@ -1,6 +1,6 @@
 # ClearLedger Privacy Policy
 
-Last updated: 2026-07-09
+Last updated: 2026-10-31
 
 Online policy URL: https://charlespenpen.github.io/appsite/PrivacyPolicy.md
 
@@ -22,9 +22,9 @@ Camera scanning, photo selection, and image text recognition are used only when 
 
 Local notifications and device authentication are used only for reminders and app lock. Users can change these permissions in iOS Settings.
 
-## Exported files
+## Backups and exported files
 
-JSON backups and CSV reports are created only when the user exports them. Exported files may contain sensitive financial data and should be stored securely by the user.
+Ledger backups and CSV reports are created when you choose to export them. Before restoring a backup or replacing a ledger, the app may also create and keep a safety backup on your device. Backups and exported files may contain sensitive financial data and should be stored securely by the user.
 
 ## User controls and deletion
 
